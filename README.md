@@ -13,7 +13,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioNog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
- # technologies I'm learning
+ # Technologies this is my life
  <div>
  <img src="https://img.shields.io/badge/Laravel-14354C?style=for-the-badge&logo=laravel&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
