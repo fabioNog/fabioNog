@@ -33,13 +33,6 @@
   
   ##GIHUTB PROFISSIONAL
  
- 🔥 Fabio Nogueira do Carmo
-
-<div>
-<a href="https://github.com/fabionogueiracarmo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabionogueiracarmo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabionogueiracarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
  # technologies I'm learning
  <div>
@@ -52,7 +45,8 @@
  </div> 
 
 <div>
-  ![Snake animation](https://github.com/fabionogueiracarmo/fabionogueiracarmo/blob/output/github-contribution-grid-snake.svg)
+  
+ ![Snake animation](https://github.com/fabionogueiracarmo/fabionogueiracarmo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
