@@ -31,10 +31,9 @@
  
   ![Snake animation](https://github.com/fabioNog/fabioNog/blob/output/github-contribution-grid-snake.svg)
   
-  ##GIHUTB PROFISSIONAL
  
 
- # technologies I'm learning
+ # GIHUTB PROFISSIONAL
  <div>
  <img src="https://img.shields.io/badge/Laravel-14354C?style=for-the-badge&logo=laravel&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
