@@ -5,7 +5,7 @@
  🔭 I’m currently working on Sotware Developer
 - 🌱 I’m currently learning java and javascript
 - 💬 Ask me about Laravel and Slackline
-- 😄 Pronouns: umfabio.herokuapp.com
+- 😄 Pronouns: [umfabio.herokuapp.com](https://fabionog.github.io/fabionogueira/)
 
 <div>
 <a href="https://github.com/fabionogueiracarmo">
