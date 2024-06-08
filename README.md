@@ -5,12 +5,12 @@
  🔭 I’m currently working on Sotware Developer
 - 🌱 I’m currently learning java and javascript
 - 💬 Ask me about Laravel and Slackline
-- 😄 Pronouns: [umfabio.herokuapp.com](https://fabionog.github.io/fabionogueira/)
+- 😄 Pronouns: [fabionog.com](https://fabionog.github.io/fabionogueira/)
 
 <div>
 <a href="https://github.com/fabionogueiracarmo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioNog&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioNog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioNog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
  # Technologies is my life =)
